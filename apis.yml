@@ -1,6 +1,6 @@
 aid: cqrs
 name: CQRS
-x-type: topic
+kind: topic
 description: >-
   Command Query Responsibility Segregation (CQRS) is an architectural pattern
   that separates read and write operations for a data store into distinct
