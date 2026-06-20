@@ -10,7 +10,7 @@ description: >-
   domains. The pattern is most associated with Greg Young, building on Bertrand
   Meyer's Command-Query Separation principle, and is widely covered in writings
   by Martin Fowler and the Microsoft Patterns and Practices team.
-image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: https://raw.githubusercontent.com/api-evangelist/cqrs/refs/heads/main/apis.yml
 type: Index
 access: Open Source
