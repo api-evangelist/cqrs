@@ -10,6 +10,7 @@ description: >-
   domains. The pattern is most associated with Greg Young, building on Bertrand
   Meyer's Command-Query Separation principle, and is widely covered in writings
   by Martin Fowler and the Microsoft Patterns and Practices team.
+specificationVersion: '0.23'
 accessModel:
   pricing: unknown
   onboarding: unknown
