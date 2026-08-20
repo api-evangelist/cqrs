@@ -36,6 +36,17 @@ tags:
   - CQRS
   - Domain-Driven Design
   - Event Sourcing
+  - Event
+  - Patterns
+  - Query
+  - Read Models
+tags_raw:
+  - Architecture
+  - Command Query Responsibility Segregation
+  - Commands
+  - CQRS
+  - Domain-Driven Design
+  - Event Sourcing
   - Events
   - Patterns
   - Queries
